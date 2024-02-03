@@ -5,5 +5,5 @@ There is typically a distinction between voluntary churn and involuntary churn. 
 
 Predictive analytics leverages churn prediction models to assess the risk propensity of customers to churn. By generating a prioritized list of potential defectors, these models prove effective in directing customer retention marketing efforts towards the subset of the customer base most susceptible to churn.
 
-<img src = "images/churn1.png" width="1200" height="400">
-<img src = "images/churn2.png" width="1200" height="400">
+<img src = "images/churn1.png" width="" height="">
+<img src = "images/churn2.png" width="" height="">
